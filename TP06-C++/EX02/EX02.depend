@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1793197878 source:c:\users\cli\onedrive\desktop\tp06-c++\ex02\main.cpp
+	"CompteEpargne.hpp"
+	<iostream>
+	<windows.h>
+
+1793198148 c:\users\cli\onedrive\desktop\tp06-c++\ex02\compteepargne.hpp
+	"Compte.hpp"
+
+1793198051 c:\users\cli\onedrive\desktop\tp06-c++\ex02\compte.hpp
+	<string>
+	<iostream>
+
